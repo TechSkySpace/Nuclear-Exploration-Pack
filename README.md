@@ -1,13 +1,16 @@
 # ☢️ Nuclear Expansion Pack
 
-
-
-
 A nuclear-powered parts pack for **Spaceflight Simulator (SFS)**. Brings Nuclear Thermal Rocket (NTR) and ion propulsion technology to your deep-space missions.
 
 ## 📋 Overview
 
 Conventional engines not cutting it for interstellar travel? This pack adds high-Isp nuclear engines, including KSP-inspired classics and original designs. Lower thrust, far better fuel economy.
+
+## 📸 Screenshots
+
+| In-orbit firing | Parts gallery |
+|----------------|---------------|
+| ![In-orbit firing](Neuclear%20Engines/屏幕截图%202026-04-27%20230257.png) | ![Parts gallery](Neuclear%20Engines/屏幕截图%202026-04-27%20230207.png) |
 
 ## 🚀 Parts List
 
