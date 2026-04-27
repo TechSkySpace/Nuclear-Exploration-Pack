@@ -28,5 +28,6 @@ Conventional engines not cutting it for interstellar travel? This pack adds high
 ## 📥 Installation
 
 1. **Backup** your original `Parts` folder
-2. **Download** `NuclearExpansionPack.zip` from [Releases](link)
-3. **Extract** `.txt` part files into:
+2. **Download** the latest .pack file from releases.
+3. **Install** Copy the .pack file into your game's mod/custom_assets/parts path folder.
+4. **Start** re-launch the game. 
