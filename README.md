@@ -18,7 +18,7 @@ Conventional engines not cutting it for interstellar travel? This pack adds high
 
 | Part | Thrust (t) | Isp (s) | Best For |
 |------|------------|---------|-----------|
-| Nuclear Hawk | 70 | 500s | Upper stage / outer space. Nuclear version of Hawk engine. Expandable nozzle – no torque. |
+| Nuclear Hawk | 70 | 400s | Upper stage / outer space. Nuclear version of Hawk engine. Expandable nozzle – no torque. |
 | Nuclear Frontier | 12t | 900s | Interstellar journeys. Nuclear version of Frontier engine. Higher Isp, slightly lower thrust. |
 | LV-N "Nerv" | 15t | 850s | Classic KSP nuclear engine. Balanced all-rounder. |
 | IX-6315 Dawn | 2t | 4200s | Ion engine for tiny probes. Buffed 25–250x from stock KSP (stock 0.2t/0.02t is unusable). Extremely low thrust, extremely high Isp. |
