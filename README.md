@@ -24,6 +24,7 @@ Conventional engines not cutting it for interstellar travel? This pack adds high
 | IX-6315 Dawn | 2t | 4200s | Ion engine for tiny probes. Buffed 25–250x from stock KSP (stock 0.2t/0.02t is unusable). Extremely low thrust, extremely high Isp. |
 | Nuclear Valiant | 20t | 500s | Nuclear version of Valiant engine. Mid-range option. |
 | Vesta VR1 | 50 | 290s | Small, efficient upper stage motor for probes and satellite launch vehicles. |
+| Zpinch Cascade JX200 | 110 | 36500s | JX200 Zpinch Cascade from ksp1 mod far future technologies |
 
 ## 📥 Installation
 
